@@ -1,0 +1,1 @@
+[{"grab":"Here’s my plan:\n\n- Store rows in blocks of memory called pages\n- Each page stores as many rows as it can fit\n- Rows are serialized into a compact representation with each page\n- Pages are only allocated as needed\n- Keep a fixed-size array of pointers to pages","views":"discus aboute the plan for this session","tags":["db"]}]
